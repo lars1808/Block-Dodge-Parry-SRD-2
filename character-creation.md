@@ -3,7 +3,7 @@ layout: default
 title: Character Creation
 nav_order: 4
 ---
-
+# Character Creation
 ## Name, Careers, Backgrounds
 
 First, players pick their PC’s **name**, **pronouns**, **appearance**, and other such details. Next, they make up to **4 Career choices**. A PC’s career informs their potential knowledge and skills. See *Careers*.
