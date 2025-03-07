@@ -3,6 +3,7 @@ layout: default
 title: Introduction
 nav_order: 2
 ---
+# Introduction
 
 *Block, Dodge, Parry* started out as a toolbox for running Cairn. Over time, through playtesting and feedback, it has developed into what you have in front of you know; both a toolbox *and* a complete TTRPG.
 
