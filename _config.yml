@@ -12,6 +12,11 @@ sass:
 favicon_ico: "favicon.ico"
 
 
+# Google Analytics Tracking (optional)
+# Supports a CSV of tracking ID strings (eg. "UA-1234567-89,G-1AB234CDE5")
+ga_tracking: G-F26F2LT6FN
+ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
+
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "https://dicegoblin.blog/wp-content/uploads/2025/03/BDPSRD.png"
 
