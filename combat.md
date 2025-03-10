@@ -4,6 +4,9 @@ title: Combat
 nav_order: 8
 ---
 # Combat
+1. TOC
+{:toc}
+
 
 ## Before The Fight Starts
 
