@@ -1,10 +1,3 @@
----
-layout: default
-title: Home
-nav_order: 1
-permalink: /
----
-
 # Block, Dodge, Parry, Version 2 SRD
 
 ## License
