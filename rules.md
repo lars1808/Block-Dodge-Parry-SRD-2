@@ -4,6 +4,9 @@ title: Rules
 nav_order: 5
 ---
 # Rules
+1. TOC
+{:toc}
+
 
 ## Abilities
 
