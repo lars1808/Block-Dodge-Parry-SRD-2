@@ -15,3 +15,5 @@ The following text contains essentially all of Block, Dodge, Parry, except for t
 If you'd like to support the continuous development of Block, Dodge, Parry, and gain access to the fancy full (printable and easy-to-reference) PDF all the additional explanations, commentary and examples of the illustrated full version, you can find it on
 - [DriveThruRPG](https://www.drivethrurpg.com/product/425888/Block-Dodge-Parry--A-Levelless-Classless-Expansion-of-Cairn)
 - [Itch.io](https://dicegoblingames.itch.io/block-dodge-parry)
+
+<iframe frameborder="0" src="https://itch.io/embed/1836479?linkback=true" width="552" height="167"><a href="https://dicegoblingames.itch.io/block-dodge-parry">Block, Dodge, Parry - A Levelless, Classless Expansion of Cairn by Dice Goblin Games</a></iframe>
