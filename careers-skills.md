@@ -4,8 +4,14 @@ title: Careers & Skills
 nav_order: 9
 ---
 # Careers & Skills
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
 1. TOC
 {:toc}
+</details>
 
   **At Character Creation**, players choose **up to four previous careers**. Choosing a career means a character spent at least *some* time in this capacity. Maybe it was their actual job, maybe a side gig, maybe a personal interest. A career can **be chosen multiple times**. Every time a career is chosen, choose a single **skill** from this career and add it to the character.
 
