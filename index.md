@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Block, Dodge, Parry
 nav_order: 1
 permalink: /
 ---
@@ -17,3 +17,7 @@ If you'd like to support the continuous development of Block, Dodge, Parry, and 
 - [Itch.io](https://dicegoblingames.itch.io/block-dodge-parry)
 
 <iframe frameborder="0" src="https://itch.io/embed/1836479?linkback=true" width="552" height="167"><a href="https://dicegoblingames.itch.io/block-dodge-parry">Block, Dodge, Parry - A Levelless, Classless Expansion of Cairn by Dice Goblin Games</a></iframe>
+
+## More Block, Dodge, Parry
+See https://dicegoblin.blog/ for more of my work, and https://dicegoblin.blog/category/block-dodge-parry/ for any blogposts I deem relevant to Block, Dodge, Parry.
+
