@@ -19,5 +19,9 @@ If you'd like to support the continuous development of Block, Dodge, Parry, and 
 <iframe frameborder="0" src="https://itch.io/embed/1836479?linkback=true" width="552" height="167"><a href="https://dicegoblingames.itch.io/block-dodge-parry">Block, Dodge, Parry - A Levelless, Classless Expansion of Cairn by Dice Goblin Games</a></iframe>
 
 ## More Block, Dodge, Parry
-See https://dicegoblin.blog/ for more of my work, and https://dicegoblin.blog/category/block-dodge-parry/ for any blogposts I deem relevant to Block, Dodge, Parry.
+See [dicegoblin.blog](https://dicegoblin.blog/) for more of my work, and [related blogposts](https://dicegoblin.blog/category/block-dodge-parry/).
+
+## Discord
+[Discord]([https://skills.dicegoblin.blog/](https://discord.gg/zB9PhT3chT)){: .btn .btn-green }
+
 
