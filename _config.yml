@@ -4,6 +4,11 @@ theme: just-the-docs
 
 url: https://lars1808.github.io/Block-Dodge-Parry-SRD-2
 
+sass:
+  load_paths:
+    - _sass
+
+
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "https://dicegoblin.blog/wp-content/uploads/2025/03/BDPSRD.png"
 
