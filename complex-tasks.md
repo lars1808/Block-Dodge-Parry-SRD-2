@@ -4,6 +4,9 @@ title: Complex Tasks
 nav_order: 6
 ---
 # Complex Tasks
+1. TOC
+{:toc}
+
 
 Some tasks and actions undertaken by the players take place over a longer span of time and involve multiple stages or phases. Some examples:
 
