@@ -4,6 +4,9 @@ title: Social Conflict
 nav_order: 7
 ---
 # Social Conflict
+1. TOC
+{:toc}
+
 
 Not all matters are settled with violence. If the players and NPCs are in conflict and violence is not desirable, is off the table, or is just *rude*, the first step is, of course, talking it out. To prevent negotiations from boiling down to a matter of opinion (with players and Warden both feeling like their side of the story is “correct”), you can use the following system.
 
