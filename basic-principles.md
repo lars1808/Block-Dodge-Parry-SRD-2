@@ -4,6 +4,9 @@ title: Basic Principles
 nav_order: 3
 ---
 # Basic Principles
+1. TOC
+{:toc}
+
 ## Core Concepts
 
 **Neutrality.** The Warden’s role is to portray the rules, situations, NPCs, and narrative clearly while acting as a neutral arbiter.
