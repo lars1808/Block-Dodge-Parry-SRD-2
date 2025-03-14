@@ -20,7 +20,7 @@ The Warden is encouraged to award new skills organically if the players show con
 
 Training requires a **trainer** in the mentioned **career**. If a character wants to learn how to pick a lock, go find a thief. It’s as simple as that. Hiring a trainer will cost about 50 gold per week — though often trainers will want other incentives than just gold in order to train you.
 
-Finding a trainer and convincing them to train a character is a prime part of the “engine” of *Block, Dodge, Parry*. See *Finding A Trainer* on [page 76](#Finding A Trainer) for more.
+Finding a trainer and convincing them to train a character is a prime part of the “engine” of *Block, Dodge, Parry*. See [Finding A Trainer](/tools-tables.html#finding-a-trainer) for more.
 
 If the players are stumped by a lock on an ancient stone door somewhere in the city sewers, this should motivate them to find someone who can pick locks. Thieves can be assumed to have this skill, so if the players invest proper time and effort to find a skilled thief, it’d be a good reward to have that thief be a lockpicker. The thief might require the service of the players first, of course.
 
