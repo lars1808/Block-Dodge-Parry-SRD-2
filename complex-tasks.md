@@ -2,6 +2,7 @@
 layout: default
 title: Complex Tasks
 nav_order: 6
+permalink: /complex-tasks
 ---
 # Complex Tasks
 1. TOC
