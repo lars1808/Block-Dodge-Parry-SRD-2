@@ -2,6 +2,7 @@
 layout: default
 title: Credits & Acknowledgements
 nav_order: 16
+permalink: /credits-acknowledgements
 ---
 # Credits & Acknowledgements
 
