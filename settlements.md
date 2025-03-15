@@ -31,25 +31,25 @@ Settlement provide the following services:
 
 ### Appraising and selling treasure
 
-See *Treasure* on [page 65](#Treasure).
+See [Treasure](/running-adventures/dungeons#treasure).
 
 ### Purchasing supplies and gear
 
-See *Weapons & Gear* on [page 40](#Weapons, Armor & Gear).
+See [Weapons, Armor & Gear](/weapons-armor-gear).
 
 ### Finding leads & rumors
 
-Provide characters with interesting hooks to go out and explore. These hooks can lead to people, settlements, dungeons or the wilderness ("Somewhere in the Crooked Woods"). Investigating and following up on leads can be handled as *Complex Tasks* ([page 13](#Complex Tasks)). Also see *Generic Jobs* ([page 71](#Generic Jobs)).
+Provide characters with interesting hooks to go out and explore. These hooks can lead to people, settlements, dungeons or the wilderness ("Somewhere in the Crooked Woods"). Investigating and following up on leads can be handled as [Complex Tasks](/complex-tasks). Also see [Generic Jobs](/tools-tables#generic-jobs).
 
 Treasure isn't the only way to bait an adventure hook; knowledge, training, skills, magic, and equipment all make for good rewards.
 
 ### Training for new skills
 
-See *Learning New Skills* on [page 37](#Learning New Skills) and *Finding A Trainer* on [page 76](#Finding A Trainer).
+See [Learning New Skills](/character-improvement#learning-new-skills) and [Finding A Trainer](/tools-tables#finding-a-trainer).
 
 ### Recovery and recuperation
 
-See *Healing & Recovery* on [page 11](#Healing & Recovery).
+See [Healing & Recovery](/rules#healing--recovery).
 
 ### Hiring Help
 
