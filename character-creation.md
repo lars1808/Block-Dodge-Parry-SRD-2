@@ -10,7 +10,7 @@ permalink: /character-creation
 
 ## Name, Careers, Backgrounds
 
-First, players pick their PC’s **name**, **pronouns**, **appearance**, and other such details. Next, they make up to **4 Career choices**. A PC’s career informs their potential knowledge and skills. See *Careers*.
+First, players pick their PC’s **name**, **pronouns**, **appearance**, and other such details. Next, they make up to **4 Career choices**. A PC’s career informs their potential knowledge and skills. See [Careers & Skills](/careers-skills).
 
 ## Ability Scores
 
@@ -48,7 +48,7 @@ Let players pick or roll for the starting age of their characters, which affects
 
 ## Hit Protection
 
-Roll 1d6 to determine PC’s starting Hit Protection (HP), which reflects their ability to avoid damage in combat. HP does not indicate a character’s health or fortitude. Damage that cannot be guarded against (from unseen sources, or hazards such as falls, fire, or gas) bypass HP. Resting for a few moments, catching one’s breath, and having a drink of water restores lost HP. (For more, see *Healing* on [page 11](#Healing & Recovery).)
+Roll 1d6 to determine PC’s starting Hit Protection (HP), which reflects their ability to avoid damage in combat. HP does not indicate a character’s health or fortitude. Damage that cannot be guarded against (from unseen sources, or hazards such as falls, fire, or gas) bypass HP. Resting for a few moments, catching one’s breath, and having a drink of water restores lost HP. (For more, see [Healing & Recovery](/rules#healing--recovery).)
 
 ## Fantasy Species
 
@@ -61,7 +61,7 @@ If desired, players can pick one of the following attributes, to play as a fanta
 
 ## Inventory
 
-A character's inventory represents both their literal equipment, as well as a “stamina bar” of sorts, through *Fatigue* (See *Deprivation & Fatigue*).
+A character's inventory represents both their literal equipment, as well as a “stamina bar” of sorts, through *Fatigue* (See [Deprivation & Fatigue](/rules#deprivation--fatigue)).
 
 Characters have **10 inventory slots** in total. Unless noted otherwise, items take up **one slot**. Small items can be bundled together. **Bulky items** take up **two slots** and are typically two-handed or awkward to carry.
 
@@ -71,11 +71,11 @@ Any character with **all inventory slots filled** (by gear or Fatigue) is reduce
 
 ## Preferred Weapon
 
-When creating a character, the player chooses one **Damage Type Proficiency** (bludgeoning, piercing, slashing) to be proficient in. This means they gain the benefits that the damage type gives, such as bludgeoning ignoring 1 Armor (see *Weapon Skills*). They also choose one weapon to gain **Weapon Skill Proficiency** in, meaning they can use the weapon’s tag (Bleed, Brutal, Shock) right away. They can also add this weapon to their inventory.
+When creating a character, the player chooses one **Damage Type Proficiency** (bludgeoning, piercing, slashing) to be proficient in. This means they gain the benefits that the damage type gives, such as bludgeoning ignoring 1 Armor (see [Weapon Skills](/weapons-armor-gear#weapon-skills)). They also choose one weapon to gain **Weapon Skill Proficiency** in, meaning they can use the weapon’s tag (Bleed, Brutal, Shock) right away. They can also add this weapon to their inventory.
 
 ## Starting Gear
 
-New player characters start with the following. See *Weapons, Armor & Gear* for more information.
+New player characters start with the following. See [Weapons, Armor & Gear](/weapons-armor-gear) for more information.
 
 - Three days' rations (1 slot)
 - A waterskin (Usage die of 8)
