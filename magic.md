@@ -93,7 +93,7 @@ Any magic that doesn’t do direct damage (*Sculpt Energy*) or indirect harm (*T
 
 > *Maltas wants to light up the environment. He tells the Warden of his intentions. The Warden informs him that simply lighting the tip of his staff, much like a torch, would require 1 MD. Creating a hovering orb of light would require 2 MD. Summoning a cloud of semi-sentient spectral fireflies would require 3 MD. Creating a ball of light with the same intensity and properties of sunlight would require 4 MD.*
 
-Practical Magic is designed to be very free-form. However, the list of *Arcane Words of Power* ([page 71](#Arcane Words of Power)) can serve as inspiration or as an interesting limitation. Perhaps your setting only allows a magic user to use certain Words or know a limited amount.
+Practical Magic is designed to be very free-form. However, the list of [Arcane Words of Power](/tools-tables#arcane-words-of-power) can serve as inspiration or as an interesting limitation. Perhaps your setting only allows a magic user to use certain Words or know a limited amount.
 
 ### The Power of Magic
 
@@ -113,7 +113,7 @@ There are no strict definitions as to the limits of magic mentioned here. This i
 - **"Yes, but..."** Whatever the players want *might* be possible but is beyond the scope of simply using 4 MD. It requires extensive study, preparation, elaborate rituals with obscure ingredients... Adventures spring from friction in trying to reach a goal. Using magic does not need to *bypass* a challenge, but can simply change the nature of it.
 - **Be careful what you wish for...** If the party really, really wants to bring back that lovable goblin companion that ate an axe to the face, magic might offer a path forward — but *something* will take notice. Perhaps the God of Life and Death gets upset, or a jealous High Wizard (who has been asking nobles a premium for resurrection) sees this as competition, or the Church sees this as blasphemy, or word gets out and the party will now get harassed endlessly to please bring loved ones back to life. Foreshadow that this act of magic is highly **dangerous and unpredictable**, but leave the consequences unknown.
 - Within the fiction of the world, certain feats might simply not be possible; even magic has laws. Enchantments always wear off, and nothing can be made into gold.
-- Stick (strictly) to the *Arcane Words of Power* ([page 71](#Arcane Words of Power)). These tags can be the framework of magic, and if a word isn't on the list, it can't be harnessed by magic.
+- Stick (strictly) to the [Arcane Words of Power](/tools-tables#arcane-words-of-power). These tags can be the framework of magic, and if a word isn't on the list, it can't be harnessed by magic.
 
 The Warden can also decide to limit the availability and power of magic in several ways, by...
 
@@ -212,7 +212,7 @@ Songs can be encountered in many places: a minstrel on a market square, a bard i
 
 ### Studying A Song
 
-Studying a song is a *complex task* ([page 13](#Complex Tasks)). The timescale is in days, and each day of study requires exposure to the song; this can mean paying a singer to perform it, being at the same window each night to hear it sung, or hiring a trainer. The number of Steps is dependent on the complexity of the song.
+Studying a song is a [Complex Task](/complex-tasks). The timescale is in days, and each day of study requires exposure to the song; this can mean paying a singer to perform it, being at the same window each night to hear it sung, or hiring a trainer. The number of Steps is dependent on the complexity of the song.
 
 ### Singing A Song
 
