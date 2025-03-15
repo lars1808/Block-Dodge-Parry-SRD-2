@@ -72,9 +72,9 @@ Help can come in various forms.
 **Dungeon hirelings** are those brave enough to venture into dungeons alongside the party. Besides regular pay, they might want a share of the loot.
 
 - Torchbearers will carry light sources, supplies, and loot. They are lightly armed, backpack with 6 slots. They won't willingly endanger themselves by going first or fighting beyond self-defense.
-- Fellow adventurers are similar to PCs and are useful backup characters. See Other Adventurers ([Page 69](#Other Adventurers)) on how to roll for their stats and equipment.
+- Fellow adventurers are similar to PCs and are useful backup characters. See [Other Adventurers](/friends-foes-monsters#other-adventurers) on how to roll for their stats and equipment.
 
-**Warfare hirelings** are hired to protect or attack fortifications, patrol the wilderness, and generally wage war. They act as a **detachment** (see [page 21](#Many Attackers: Detachments)), and a single detachment consists of roughly 10 men. An example stat block would be:
+**Warfare hirelings** are hired to protect or attack fortifications, patrol the wilderness, and generally wage war. They act as a [detachment](/combat#many-attackers-detachments), and a single detachment consists of roughly 10 men. An example stat block would be:
 
 - **Squad of Troops**. 4 HP, 1 Armor, STR 12, DEX 12, WIL 10. *Detachment*. Longsword (d8) and bow (d6).
 
@@ -104,7 +104,7 @@ The following is a rough overview of where one might find specialists of a certa
 
 There have been many books written about settlements, cities, kingdoms, and domain-level play in the OSR. The focus here is on highlighting how settlements interact with the ideas of *Block, Dodge, Parry* specifically. Consider the following works for more on settlements and the folks found there:
 
-- **Downtime in Zyan** by Ben Laurence, for downtime and procedures. The *Complex Tasks* system is inspired by this book, so many procedures here flow well with *Block, Dodge, Parry*.
-- **On Downtime and Demesnes** by Courtney C. Campbell, for downtime activities, political roleplay, construction of buildings, and much more.
-- **Gig Economy** by Colin Sproule, for numerous interesting NPC hirelings.
-- **Demesnes & Domination** and **Medieval Mercenaries** by Bryan Larkin, for an extensive take on strongholds, domains, and hirelings.
+- [**Downtime in Zyan**](https://ben-laurence.itch.io/downtime-in-zyan) by Ben Laurence, for downtime and procedures. The *Complex Tasks* system is inspired by this book, so many procedures here flow well with *Block, Dodge, Parry*.
+- [**On Downtime and Demesnes**](https://www.drivethrurpg.com/en/product/297829/on-downtime-and-demesnes-basic-d-d) by Courtney C. Campbell, for downtime activities, political roleplay, construction of buildings, and much more.
+- [**Gig Economy**](https://www.drivethrurpg.com/en/product/399614/gig-economy) by Colin Sproule, for numerous interesting NPC hirelings.
+- [**Demesnes & Domination**](https://www.drivethrurpg.com/en/product/445532/demesnes-domination) and [**Medieval Mercenaries**](https://www.drivethrurpg.com/en/product/478570/medieval-mercenaries) by Bryan Larkin, for an extensive take on strongholds, domains, and hirelings.
