@@ -194,4 +194,4 @@ For slopes (hills, mountains, desert), roll an extra d6. On a 1-2, the encounter
 
 ## Further Reading
 
-- The **D12 Monthly Zine** by YUMDM contains many great ideas to flesh out wilderness adventures. It can be found on https://yumdm.com/zines/
+- The [**D12 Monthly Zine**](https://yumdm.com/zines/) by YUMDM contains many great ideas to flesh out wilderness adventures.
