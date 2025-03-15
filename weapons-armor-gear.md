@@ -2,6 +2,7 @@
 layout: default
 title: Weapons, Armor & Gear
 nav_order: 11
+permalink: /weapons-armor-gear
 ---
 # Weapons, Armor & Gear
 1. TOC
