@@ -3,6 +3,7 @@ layout: default
 title: Dungeons
 parent: Running Adventures
 nav_order: 3
+permalink: /dungeons
 ---
 # Dungeons
 <details open markdown="block">
