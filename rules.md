@@ -180,13 +180,13 @@ An adventurer must eat at least once a day to not become Deprived. All meals lis
 - **Simple meals** are ingredients that have seen some basic level of preparation, such as grilled meat and roasted vegetables. Restores 1 Fatigue. Requires fire. Rations also count as a simple meal.
 - **Fancy meals** are multiple prepared ingredients put together, such as boiled vegetables with grilled fish, boar meat sandwiches, etc. This restores **all Fatigue**. Requires fire and a cooking pot.
 
-More information about gathering ingredients can be found in the *Wilderness Action* section ([page 58](#Gathering)).
+More information about gathering ingredients can be found in the [Gathering](/running-adventures/wilderness#gathering) section.
 
 ### Wildcrafting
 
 Wildcrafting allows one to craft healing salves, teas, tonics, and potions with ingredients found in the wild.
 
-Ingredients for wildcrafting can be found while **foraging** and consist of mushrooms, mosses, plants, roots, bark, and saps. Ingredients can be Common, Uncommon, and Rare. (See *Complex Tasks* on [page 13](#Complex Tasks) for more.) An ingredient's rarity decides its Potency: 1 for Common, 2 for Uncommon, and 4 for Rare. Furthermore, ingredients are defined by the type of region they are gathered from, like Plains, Forest, Swamp, Hills, Mountain, or Desert.
+Ingredients for wildcrafting can be found while **foraging** and consist of mushrooms, mosses, plants, roots, bark, and saps. Ingredients can be Common, Uncommon, and Rare. (See [Complex Tasks](/complex-tasks) for more.) An ingredient's rarity decides its Potency: 1 for Common, 2 for Uncommon, and 4 for Rare. Furthermore, ingredients are defined by the type of region they are gathered from, like Plains, Forest, Swamp, Hills, Mountain, or Desert.
 
 An example ingredient could be "*Hallowoak Bark, Uncommon, Plains.*"
 
