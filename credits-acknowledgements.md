@@ -36,7 +36,7 @@ Special thanks to the following creators for all the amazing work that this docu
 First edition published in 2022, and this version was published in 2024.
 
 - Written & tested by **Lars Huijbregts**.
-- Editing by Yossi Krausz
-- Website: https://dicegoblin.blog/
+- Editing by **Yossi Krausz**.
+- Website: [https://dicegoblin.blog/](https://dicegoblin.blog/)
 - Discord: MrKittenMittens#1272
-- Twitter: https://twitter.com/DiceGoblinBlog
+- Bluesky: [dicegoblin.blog](https://bsky.app/profile/dicegoblin.blog)
