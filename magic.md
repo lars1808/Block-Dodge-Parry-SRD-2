@@ -2,6 +2,7 @@
 layout: default
 title: Magic
 nav_order: 12
+permalink: /magic
 ---
 # Magic
 1. TOC
