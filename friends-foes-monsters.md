@@ -2,6 +2,7 @@
 layout: default
 title: Friends, Foes & Monsters
 nav_order: 14
+permalink: /friends-foes-monsters
 ---
 # Friends, Foes & Monsters
 <details open markdown="block">
