@@ -2,6 +2,7 @@
 layout: default
 title: Social Conflict
 nav_order: 7
+permalink: /social-conflict
 ---
 # Social Conflict
 1. TOC
