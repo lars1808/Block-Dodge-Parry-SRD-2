@@ -2,6 +2,7 @@
 layout: default
 title: Basic Principles
 nav_order: 3
+permalink: /basic-principles
 ---
 # Basic Principles
 1. TOC
