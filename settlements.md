@@ -3,6 +3,7 @@ layout: default
 title: Settlements
 parent: Running Adventures
 nav_order: 1
+permalink: /running-adventures/settlements
 ---
 # Settlements
 <details open markdown="block">
