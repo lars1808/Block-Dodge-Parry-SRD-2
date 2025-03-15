@@ -209,5 +209,5 @@ Skip the following when making a potential hireling.
 
 ## Existing Bestiaries
 
-- *Cairn* has an extensive bestiary, covering most basic monsters. Most of these are usable as-is for *Block, Dodge, Parry*. You can find the bestiary at https://cairnrpg.com/resources/monsters/
-- *Runecairn* by **By Odin's Beard** has an amazing bestiary, usable with minor adjustments. It can be found here: https://byodinsbeardrpg.itch.io/runecairn-bestiary
+- *Cairn* has an [extensive bestiary](https://cairnrpg.com/resources/monsters/), covering most basic monsters. Most of these are usable as-is for *Block, Dodge, Parry*.
+- *Runecairn* by **By Odin's Beard** has an [amazing bestiary](https://byodinsbeardrpg.itch.io/runecairn-bestiary), usable with minor adjustments.
