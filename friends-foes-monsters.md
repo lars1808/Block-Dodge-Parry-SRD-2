@@ -97,7 +97,7 @@ The following features can be used to describe or enhance NPCs. Note that the bo
 
 **Terrifying**. The creature is so alien, grotesque, or monstrous that all who gaze upon it for the first time must pass a WIL Save or have all attacks Impaired until they regroup and recover.
 
-**Wounding**. A good universal way to make a foe more threatening is to have their attacks inflict wounds (as per *Wounds & How To Treat Them* on [page 9](#Wounds & How To Treat Them)). Flavor this wound as appropriate in the fiction (lacerations, burns, broken bones, etc). When rolling for damage, if the result is within the upper half of the die's range (i.e., 4 or higher on a d6, 5 or higher on a d8, etc.), the attack successfully inflicts a wound.
+**Wounding**. A good universal way to make a foe more threatening is to have their attacks inflict wounds (as per [Wounds & How To Treat Them](/rules#wounds--how-to-treat-them)). Flavor this wound as appropriate in the fiction (lacerations, burns, broken bones, etc). When rolling for damage, if the result is within the upper half of the die's range (i.e., 4 or higher on a d6, 5 or higher on a d8, etc.), the attack successfully inflicts a wound.
 
 ### Strengths & Weaknesses
 
@@ -126,7 +126,7 @@ An elite elven warrior...
 
 1. ...is nimble and deft (15 DEX), and strong of will (15 WIL), and highly trained (12 HP).
 2. ...has a bow (d8) and a scimitar (d8).
-3. ...is mounted on a noble steed and is a seasoned (see *Combat Experience*, [page 37](#Combat Experience)) mounted archer.
+3. ...is mounted on a noble steed and is a seasoned (see [Combat Experience](/character-improvement#combat-experience)) mounted archer.
 4. ...has lightweight but surprisingly strong armor (2 Armor).
 5. ...is trained in coordinated swordplay (squad tactics with scimitar).
 6. ...can *Dodge* attacks up to 3 times per combat (to not have to track inventory).
