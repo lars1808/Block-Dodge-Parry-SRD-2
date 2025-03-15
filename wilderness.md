@@ -49,7 +49,7 @@ There are several types of gathering:
 - **Foraging** requires no tools and yields **fruits & vegetables**, and can also yield (on a 1-in-6 chance) ingredients for **Wildcrafting**.
 - **Fishing** requires a fishing rod or spear and yields **raw fish**.
 
-Yields depend on the type of terrain. The table below shows the “number of portions” (e.g.. 1d4 pieces of raw meat) returned from the Gathering action. Characters who are explicitly skilled in an activity can upgrade the dice rolled by one tier (1 > 1d4 > 1d6 > 1d8). More information as to the properties of various yields when cooked can be found in the Healing & Recovery section.
+Yields depend on the type of terrain. The table below shows the “number of portions” (e.g.. 1d4 pieces of raw meat) returned from the Gathering action. Characters who are explicitly skilled in an activity can upgrade the dice rolled by one tier (1 > 1d4 > 1d6 > 1d8). More information as to the properties of various yields when cooked can be found in the [Healing & Recovery](/rules#healing--recovery) section.
 
 | **Terrain type** | **Hunting** | **Foraging** | **Fishing** |
 | ---------------- | ----------- | ------------ | ----------- |
@@ -62,7 +62,7 @@ Yields depend on the type of terrain. The table below shows the “number of por
 
 ### Make Camp
 
-The party stops to set up camp. This is the time to stave off Deprivation (see *Healing & Recovery*) by cooking, eating, and sleeping.
+The party stops to set up camp. This is the time to stave off Deprivation (see [Healing & Recovery](/rules#healing--recovery)) by cooking, eating, and sleeping.
 
 Typically, a party will use the third watch of the day to make camp and rest. Travel at night is possible but more dangerous. Some terrain, such as deserts, might be easier to traverse at night. It is advised to select rotating lookouts to prevent surprise attacks.
 
@@ -82,7 +82,7 @@ When making a **Wilderness Event** roll for a party that has made camp, ignore r
 
 | **1d6** | **Type**    | **Description**                                              |
 | ------- | ----------- | ------------------------------------------------------------ |
-| 1       | Encounter   | Roll for an encounter for the terrain or location. Don't forget to roll for terrain (see below), surprise, and NPC reactions. (See *Before The Fight Starts.*) |
+| 1       | Encounter   | Roll for an encounter for the terrain or location. Don't forget to roll for terrain (see below), surprise, and NPC reactions. (See [Before The Fight Starts](/combat#before-the-fight-starts).) |
 | 2       | Sign        | A clue, indication or lead on an upcoming encounter or feature. Roll again on this table and foreshadow the result. |
 | 3       | Environment | A shift in weather (1d6, 1: Way worse to 6: Way better) or terrain. |
 | 4       | Loss        | The party is faced with a choice that costs them a resource (rations, tools), time, or effort. |
