@@ -3,6 +3,7 @@ layout: default
 title: Running Adventures
 nav_order: 13
 has_children: true
+permalink: /running-adventures
 ---
 # Running Adventures
 
