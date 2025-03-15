@@ -31,7 +31,7 @@ Knowledge can also be gained from books. Proper treatises and manuals will **see
 
 ### How To Track Progress
 
-Learning a new skill is essentially a [Complex Task](/complex-task):
+Learning a new skill is essentially a [Complex Task](/complex-tasks):
 
 - A simple skill takes 1d4+2 Steps, and a Step takes 1 day.
 - A hard skill takes 2d4+4 Steps, and a step takes 1 day.
