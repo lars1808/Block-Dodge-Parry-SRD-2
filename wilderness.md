@@ -3,6 +3,7 @@ layout: default
 title: Wilderness
 parent: Running Adventures
 nav_order: 2
+permalink: /running-adventures/wilderness
 ---
 # Wilderness
 <details open markdown="block">
