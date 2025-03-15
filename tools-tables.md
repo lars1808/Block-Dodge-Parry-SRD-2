@@ -2,6 +2,7 @@
 layout: default
 title: Tools & Tables
 nav_order: 15
+permalink: /tools-tables
 ---
 # Tools & Tables
 <details open markdown="block">
