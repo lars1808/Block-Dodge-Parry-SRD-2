@@ -31,7 +31,7 @@ Knowledge can also be gained from books. Proper treatises and manuals will **see
 
 ### How To Track Progress
 
-Learning a new skill is essentially a *Complex Task* ([page 13](#Complex Tasks)):
+Learning a new skill is essentially a [Complex Task](/complex-task):
 
 - A simple skill takes 1d4+2 Steps, and a Step takes 1 day.
 - A hard skill takes 2d4+4 Steps, and a step takes 1 day.
@@ -67,7 +67,7 @@ Gaining combat experience should feel like a meaningful reward gained by charact
 
 If within the fiction the player characters are simply *superior* to their opponents, all their attacks are Enhanced. This allows for a degree of power fantasy, without necessarily introducing a severe power creep. Use HP as a general guideline; if a player character's max HP is at least 8 points higher than their opponent's max HP, it can be assumed that they are skilled enough to land Enhanced blows. By the time a player character has 12 max HP, they'd definitely make short work of a bandit with 3 HP.
 
-These rules can also apply to NPCs; a superior NPC might act as a one-being detachment, and a horde of inferior NPCs might need to group together to land effective blows (with the PCs basically becoming the one-person detachments). See *Features* in *Friends, Foes & Monsters* on [page 67](#Features) for more.
+These rules can also apply to NPCs; a superior NPC might act as a one-being detachment, and a horde of inferior NPCs might need to group together to land effective blows (with the PCs basically becoming the one-person detachments). See [*Features* in *Friends, Foes & Monsters*](/friends-foes-monsters#features) for more.
 
 ## Gaining More HP
 
