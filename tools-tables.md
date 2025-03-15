@@ -281,4 +281,4 @@ This person is willing to teach their skills…
 
 ## Further Reading
 
-https://dicegoblin.blog/category/block-dodge-parry/ is continuously updated with new mechanics, tools and tables that fit right into *Block, Dodge, Parry*.
+- [Dicegoblin.blog](https://dicegoblin.blog/category/block-dodge-parry/) is continuously updated with new mechanics, tools and tables that fit right into *Block, Dodge, Parry*.
