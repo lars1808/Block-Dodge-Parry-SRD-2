@@ -2,6 +2,7 @@
 layout: default
 title: Careers & Skills
 nav_order: 9
+permalink: /careers-skills
 ---
 # Careers & Skills
 <details open markdown="block">
