@@ -2,6 +2,7 @@
 layout: default
 title: Rules
 nav_order: 5
+permalink: /rules
 ---
 # Rules
 1. TOC
