@@ -160,25 +160,25 @@ Some of these items make references to rules found later on, in the *Running Adv
 
 **Climbing Gear** ★★. Bulky. Serves as dedicated gear for climbing in any *Time, Gear, Skill* situation. Includes ropes, pitons, spikes, hammer, etc. One set of climbing gear can serve multiple characters (with one character climbing up first and laying out a route). Per climb, roll 1d6; on a 1, the gear is damaged or lost and cannot be used again.
 
-**Cooking Pot** ★. Allows for the preparation of fancy meals on a campfire. See *Food & Meals* on [page 11](#Food & Meals).
+**Cooking Pot** ★. Allows for the preparation of fancy meals on a campfire. See [Food & Meals](/rules#food--meals).
 
-**Crowbar** ★. Gear for opening doors that don't want to. See *Doors* on [page 63](#Doors).
+**Crowbar** ★. Gear for opening doors that don't want to. See [Doors](/running-adventures/dungeons#doors).
 
 **Fancy Clothes** ★★. Looking a certain way can help one get into places. Wearing fancy clothes acts as gear in *Time, Gear, Skill* when trying to get access to nobility and the like.
 
-**Fishing Rod** ★. Allows for fishing in bodies of water. See *Gathering* on [page 58](#Gathering).
+**Fishing Rod** ★. Allows for fishing in bodies of water. See [Gathering](/running-adventures/wilderness#gathering).
 
 **Healer's Kit** ★★. Allows for simple first aid and stabilizing the dying. 3 uses.
 
 **Lantern** ★★. Illuminates everything nearby, and has a Usage Die of d10. Every 10 minutes, roll the die; on a 1-2, the size decreases. On a 1-2 at size d4, the lantern oil has run out. A lantern can be attached to one's backpack or hip, freeing the adventurer's hands. They are also encased in glass, providing good protection against gusts of wind. Lanterns are fragile, however; when the adventurer takes a tumble or a bad hit, consider rolling 1d6, with the lamp breaking on a 1. Breaking might also mean that flammable oil is spilt (possibly over the adventurer!).
 
-**Mountaineering Equipment** ★★. Aids with complications in perilous mountainous terrain. See *Journey Length: Distance & Terrain* on [page 60](#Journey Length: Distance & Terrain).
+**Mountaineering Equipment** ★★. Aids with complications in perilous mountainous terrain. See [Journey Length: Distance & Terrain](/running-adventures/wilderness#journey-length-distance--terrain).
 
-**Rain Cloak** ★. Wind- and water-resistant. Negates Unpleasant weather in spring or summer. (See *Weather* on [page 61](#Journey Complications: Weather).)
+**Rain Cloak** ★. Wind- and water-resistant. Negates Unpleasant weather in spring or summer. (See [Weather](/running-adventures/wilderness#journey-complications-weather).)
 
 **Rations** ☆. Will stave off hunger, but not much more. 3 uses.
 
-**Repair Kit** ★★. Allows for the field repair of a weapon or armor sacrificed to shield from a blow (See *Sacrificing Gear*, [page 22](#Sacrificing Gear)). Consists of things such as a whetstone, small hammer, strips of leather, and resin.
+**Repair Kit** ★★. Allows for the field repair of a weapon or armor sacrificed to shield from a blow (See [Sacrificing Gear](/combat#sacrificing-gear)). Consists of things such as a whetstone, small hammer, strips of leather, and resin.
 
 **Smoke Bomb** ★. When it explodes, everyone close (in the same room or grouped together) makes DEX Saves with Disadvantage for 1d4 rounds.
 
@@ -190,7 +190,7 @@ Some of these items make references to rules found later on, in the *Running Adv
 
 **Waterskin** ☆. Fully filled, it has a **Usage Die** of D8. Whenever a character recovers HP, they roll the waterskin's Usage Die. On a 1 or 2, the die decreases in size (d8>d6>d4). On a 1-2 on a d4, the waterskin is empty.
 
-**Winter Cloak** ★. Comfy and warm. Traveling without it in cold conditions, such as in mountains or in winter, can leave one **Deprived**. Negates Unpleasant weather in fall or winter. (See *Weather* on [page 61](#Journey Complications: Weather).)
+**Winter Cloak** ★. Comfy and warm. Traveling without it in cold conditions, such as in mountains or in winter, can leave one **Deprived**. Negates Unpleasant weather in fall or winter. (See [Weather](/running-adventures/wilderness#journey-complications-weather).)
 
 ## Horses & Transportation
 
