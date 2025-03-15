@@ -2,6 +2,7 @@
 layout: default
 title: Character Improvement
 nav_order: 10
+permalink: /character-improvement
 ---
 # Character Improvement
 1. TOC
