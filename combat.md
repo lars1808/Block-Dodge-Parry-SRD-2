@@ -194,7 +194,7 @@ Gambits cannot be blocked, dodged, or parried. If multiple attackers attack a si
 
 ### Armor
 
-Before calculating damage to HP, subtract the target’s **Armor** value from the result of damage rolls. Shields and similar armor provide a bonus defense (e.g. +1 Armor), but only while the item is held or worn. No one can have more than **3 Armor**. 1 Armor is referred to as light armor, 2 Armor as medium armor, and 3 Armor as heavy armor. See *Armor* in *Weapons & Gear* for a suggested list of armored equipment.
+Before calculating damage to HP, subtract the target’s **Armor** value from the result of damage rolls. Shields and similar armor provide a bonus defense (e.g. +1 Armor), but only while the item is held or worn. No one can have more than **3 Armor**. 1 Armor is referred to as light armor, 2 Armor as medium armor, and 3 Armor as heavy armor. See [Armor](/weapons-armor-gear#armor) for a suggested list of armored equipment.
 
 ### Sacrificing Gear
 
