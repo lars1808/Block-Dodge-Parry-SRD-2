@@ -2,6 +2,7 @@
 layout: default
 title: Combat
 nav_order: 8
+permalink: /combat
 ---
 # Combat
 <details open markdown="block">
