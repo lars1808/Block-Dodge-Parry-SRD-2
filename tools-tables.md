@@ -4,6 +4,7 @@ title: Tools & Tables
 nav_order: 15
 permalink: /tools-tables
 ---
+[![](https://dicegoblin.blog/wp-content/uploads/2025/03/PODBanner.jpg)](https://dicegoblin.blog/block-dodge-parry-in-print/)
 # Tools & Tables
 <details open markdown="block">
   <summary>
