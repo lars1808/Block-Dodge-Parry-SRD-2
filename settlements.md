@@ -5,6 +5,7 @@ parent: Running Adventures
 nav_order: 1
 permalink: /running-adventures/settlements
 ---
+[![](https://dicegoblin.blog/wp-content/uploads/2025/03/PODBanner.jpg)](https://dicegoblin.blog/block-dodge-parry-in-print/)
 # Settlements
 <details open markdown="block">
   <summary>
