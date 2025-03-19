@@ -4,6 +4,7 @@ title: Expansions, Modules & Dungeons
 nav_order: 17
 permalink: /expansions
 ---
+[![](https://dicegoblin.blog/wp-content/uploads/2025/03/PODBanner.jpg)](https://dicegoblin.blog/block-dodge-parry-in-print/)
 # Expansions, Modules & Dungeons
 ## Expansions
 ### Sail, Swab, Scurvy
