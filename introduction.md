@@ -4,6 +4,7 @@ title: Introduction
 nav_order: 2
 permalink: /introduction
 ---
+[![](https://dicegoblin.blog/wp-content/uploads/2025/03/PODBanner.jpg)](https://dicegoblin.blog/block-dodge-parry-in-print/)
 # Introduction
 
 *Block, Dodge, Parry* started out as a toolbox for running Cairn. Over time, through playtesting and feedback, it has developed into what you have in front of you know; both a toolbox *and* a complete TTRPG.
