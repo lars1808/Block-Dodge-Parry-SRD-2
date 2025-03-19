@@ -5,6 +5,7 @@ parent: Running Adventures
 nav_order: 2
 permalink: /running-adventures/wilderness
 ---
+[![](https://dicegoblin.blog/wp-content/uploads/2025/03/PODBanner.jpg)](https://dicegoblin.blog/block-dodge-parry-in-print/)
 # Wilderness
 <details open markdown="block">
   <summary>
