@@ -13,7 +13,7 @@ You are free to copy, redistribute, remix, transform and build upon this materia
 [![](https://dicegoblin.blog/wp-content/uploads/2025/03/PODBanner.jpg)](https://dicegoblin.blog/block-dodge-parry-in-print/)
 ## Systems Reference Document
 The following text contains essentially all of Block, Dodge, Parry, except for the full Careers and Skills.
-If you'd like to support the continuous development of Block, Dodge, Parry, and gain access to the fancy full (printable and easy-to-reference) PDF all the additional explanations, commentary and examples of the illustrated full version, you can find it on
+If you'd like to support the continuous development of Block, Dodge, Parry, and gain access to the fancy full (printable and easy-to-reference) PDF, all the additional explanations, tools, commentary and examples of the illustrated full version, you can find it on
 - [DriveThruRPG](https://www.drivethrurpg.com/product/425888/Block-Dodge-Parry--A-Levelless-Classless-Expansion-of-Cairn)
 - [Itch.io](https://dicegoblingames.itch.io/block-dodge-parry)
 
