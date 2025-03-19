@@ -4,6 +4,7 @@ title: Weapons, Armor & Gear
 nav_order: 11
 permalink: /weapons-armor-gear
 ---
+[![](https://dicegoblin.blog/wp-content/uploads/2025/03/PODBanner.jpg)](https://dicegoblin.blog/block-dodge-parry-in-print/)
 # Weapons, Armor & Gear
 1. TOC
 {:toc}
