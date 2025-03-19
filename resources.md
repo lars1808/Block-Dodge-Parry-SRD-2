@@ -4,6 +4,7 @@ title: Resources
 nav_order: 18
 permalink: /resources
 ---
+[![](https://dicegoblin.blog/wp-content/uploads/2025/03/PODBanner.jpg)](https://dicegoblin.blog/block-dodge-parry-in-print/)
 # Resources
 ## Character Sheets
 - [Character Sheet (Form-fillable)](https://dicegoblin.blog/wp-content/uploads/2025/03/BDP-Character-Sheet-Form-Fillable.pdf)
