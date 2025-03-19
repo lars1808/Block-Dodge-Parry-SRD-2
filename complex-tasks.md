@@ -4,6 +4,7 @@ title: Complex Tasks
 nav_order: 6
 permalink: /complex-tasks
 ---
+[![](https://dicegoblin.blog/wp-content/uploads/2025/03/PODBanner.jpg)](https://dicegoblin.blog/block-dodge-parry-in-print/)
 # Complex Tasks
 1. TOC
 {:toc}
