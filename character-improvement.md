@@ -4,6 +4,7 @@ title: Character Improvement
 nav_order: 10
 permalink: /character-improvement
 ---
+[![](https://dicegoblin.blog/wp-content/uploads/2025/03/PODBanner.jpg)](https://dicegoblin.blog/block-dodge-parry-in-print/)
 # Character Improvement
 1. TOC
 {:toc}
