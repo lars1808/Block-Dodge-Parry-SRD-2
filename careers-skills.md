@@ -4,6 +4,7 @@ title: Careers & Skills
 nav_order: 9
 permalink: /careers-skills
 ---
+[![](https://dicegoblin.blog/wp-content/uploads/2025/03/PODBanner.jpg)](https://dicegoblin.blog/block-dodge-parry-in-print/)
 # Careers & Skills
 <details open markdown="block">
   <summary>
