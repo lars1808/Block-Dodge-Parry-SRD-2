@@ -4,6 +4,7 @@ title: Combat
 nav_order: 8
 permalink: /combat
 ---
+[![](https://dicegoblin.blog/wp-content/uploads/2025/03/PODBanner.jpg)](https://dicegoblin.blog/block-dodge-parry-in-print/)
 # Combat
 <details open markdown="block">
   <summary>
