@@ -5,6 +5,7 @@ nav_order: 13
 has_children: true
 permalink: /running-adventures
 ---
+[![](https://dicegoblin.blog/wp-content/uploads/2025/03/PODBanner.jpg)](https://dicegoblin.blog/block-dodge-parry-in-print/)
 # Running Adventures
 
 Adventures tend to center around three types of locations:
