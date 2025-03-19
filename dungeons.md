@@ -5,6 +5,7 @@ parent: Running Adventures
 nav_order: 3
 permalink: /running-adventures/dungeons
 ---
+[![](https://dicegoblin.blog/wp-content/uploads/2025/03/PODBanner.jpg)](https://dicegoblin.blog/block-dodge-parry-in-print/)
 # Dungeons
 <details open markdown="block">
   <summary>
