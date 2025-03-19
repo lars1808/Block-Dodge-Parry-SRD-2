@@ -4,6 +4,7 @@ title: Credits & Acknowledgements
 nav_order: 16
 permalink: /credits-acknowledgements
 ---
+[![](https://dicegoblin.blog/wp-content/uploads/2025/03/PODBanner.jpg)](https://dicegoblin.blog/block-dodge-parry-in-print/)
 # Credits & Acknowledgements
 
 Special thanks to the following creators for all the amazing work that this document is built upon:
