@@ -4,6 +4,7 @@ title: Character Creation
 nav_order: 4
 permalink: /character-creation
 ---
+[![](https://dicegoblin.blog/wp-content/uploads/2025/03/PODBanner.jpg)](https://dicegoblin.blog/block-dodge-parry-in-print/)
 # Character Creation
 1. TOC
 {:toc}
