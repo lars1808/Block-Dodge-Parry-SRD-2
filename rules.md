@@ -4,6 +4,7 @@ title: Rules
 nav_order: 5
 permalink: /rules
 ---
+[![](https://dicegoblin.blog/wp-content/uploads/2025/03/PODBanner.jpg)](https://dicegoblin.blog/block-dodge-parry-in-print/)
 # Rules
 1. TOC
 {:toc}
