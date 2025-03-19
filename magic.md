@@ -4,6 +4,7 @@ title: Magic
 nav_order: 12
 permalink: /magic
 ---
+[![](https://dicegoblin.blog/wp-content/uploads/2025/03/PODBanner.jpg)](https://dicegoblin.blog/block-dodge-parry-in-print/)
 # Magic
 1. TOC
 {:toc}
