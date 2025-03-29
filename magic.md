@@ -53,7 +53,7 @@ For each **extra MD rolled**, the caster can pick one property to enhance.
 | **Element**     | None        | 1 (Fire, Ice, Shock etc.) |           |           |
 | **Damage Type** | Wound (STR) | Stun (DEX), Daze (WIL)    |           |           |
 
-> *Harvald wants to blast the Orc Chieftain, who is standing Far, gloating at having captured the party.* *Harvald decides to invest 3 MD. He rolls a 3, 4 and 6. The 6 allows him to roll another MD, which he decides to do: he gets a 4.* *By default, the bolt does 1d6 damage, so he picks the 6 he rolled for damage. He decides to upgrade damage (and picks one of his 4's) and range (Near to Far). He now has one MD left, and uses that to cast his spell Quickly.* *His spell does 10 damage, but also causes 3 Fatigue (4, 4 and 6) and 8 damage (the two 4's) to Harvald.*
+> *Harvald wants to blast the Orc Chieftain, who is standing Far, gloating at having captured the party. Harvald decides to invest 3 MD. He rolls a 3, 4 and 6. The 6 allows him to roll another MD, which he decides to do: he gets a 4. By default, the bolt does 1d6 damage, so he picks the 6 he rolled for damage. He decides to upgrade damage (and picks one of his 4's) and range (Near to Far). He now has one MD left, and uses that to cast his spell Quickly. His spell does 10 damage, but also causes 3 Fatigue (4, 4 and 6) and 8 damage (the two 4's) to Harvald.*
 
 Players are encouraged to be creative in their energy-sculpting; a player can simply describe what they would like to happen with their spell, and the Warden can indicate how many MD that might take. The general rule of thumb is that MD can be used to add a damage die or interesting effect at a 1:1 rate.
 
