@@ -12,3 +12,6 @@ permalink: /resources
 
 ## Careers & Skills
 - [Skill Selector](https://skills.dicegoblin.blog/)
+
+## Translations
+- 🇧🇷 [Brazilian Translation](https://blockdodgeparry-br.github.io/)
