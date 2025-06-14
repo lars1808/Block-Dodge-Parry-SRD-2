@@ -23,6 +23,6 @@ If you'd like to support the continuous development of Block, Dodge, Parry, and 
 See [dicegoblin.blog](https://dicegoblin.blog/) for more of my work, and [related blogposts](https://dicegoblin.blog/category/block-dodge-parry/).
 
 ## Discord
-[Discord]([https://skills.dicegoblin.blog/](https://discord.gg/zB9PhT3chT)){: .btn .btn-green }
+[Discord](https://discord.gg/zB9PhT3chT){: .btn .btn-green }
 
 
