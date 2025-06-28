@@ -19,6 +19,7 @@ Wardens and players should feel free to flavor magic as they see fit:
 ## Arcane Magic
 
 Casting arcane magic requires **Magic Dice (d6)**. Magic Dice can be gained through **Skills** (Gifted) or worn **Equipment**. This depends on the preferences of the Warden; if you want to stay true to the philosophy of "You are what you carry," remove the *Gifted* skill from your game world. If you want to lean more into the Old School notion of classes and specialization, you could make arcane equipment only usable by those with prior training.
+Note that the number of Magic Dice available to a character define the amount of power they can put in a spell; Magic Dice are not 'used up'. The only limiting factor on your spellcasting is generally the risk of blowing yourself up.
 
 ### Casting Spells
 
