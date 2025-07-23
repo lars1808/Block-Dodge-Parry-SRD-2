@@ -131,3 +131,9 @@ Each treasure item found has a value: Worthless, Common, Rare, or Exquisite. Its
 ## Further Reading
 
 - Nick LS Whelan's **Flux Space** concept on his Papers and Pencils blog (https://www.paperspencils.com/flux-space/) presents an amazing way to run sprawling dungeons without a lot of preparation.
+
+
+<details>
+  <summary>This is a summary</summary>
+  <p>THis is a text.</p>
+</details>
